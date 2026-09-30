@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio files & downloads
+testmusic/
+library/
+*.m4a
+*.mp3
+*.mp4
+*.webm
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
