@@ -2,10 +2,6 @@
 
 > **Stop renting your music.** A lightweight, self-hosted personal music streaming server built from scratch.
 
-Built for **Hack Club’s cloudFALL** initiative — challenging students to build open-source, self-hosted tools to replace paid subscription services (*"stop renting your stuff"*).
-
----
-
 ## 📖 Overview
 
 Instead of paying a recurring monthly subscription for Spotify or Apple Music, **Fader** turns any spare hard drive or computer on your home network into your private music cloud. 
